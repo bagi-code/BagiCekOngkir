@@ -1,5 +1,11 @@
 package com.bagicode.cekongkir;
 
+/*
+* Create by robby dianputra
+* web : bagicode.com
+* youtube : youtube.com/robbydianputra
+* */
+
 import android.app.ProgressDialog;
 import android.content.Context;
 import android.support.v7.app.AlertDialog;
